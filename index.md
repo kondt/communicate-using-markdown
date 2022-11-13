@@ -11,7 +11,9 @@ function donothing(){
 }
 ```
 #### Header 4
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
 ##### Header 5
 
 ###### Header 6
